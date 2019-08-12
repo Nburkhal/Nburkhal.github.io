@@ -1,15 +1,16 @@
 ---
 layout: post
 title: A Gaijin's Guide to The Tokyo Train System
+subtitle: Understanding the world's most complex transportation network
 ---
 
 ![](https://cdn-images-1.medium.com/max/1600/1*xHUN1AVM0ejObXBygvCr9g.jpeg)
-<span class="figcaption_hack">Every day, millions of Japanese use public trains to commute in and around
+<span class="figcaption_hack">*Every day, millions of Japanese use public trains to commute in and around
 Tokyo. With the 2020 Olympics right around the corner, this number is expected
 to increase significantly with the sudden influx of millions of international
 spectators. What can data about Tokyo's public transportation tell us about the
 world's most efficient and complex system? And can we find ways to improve the
-system such that it can operate just as efficiently at much higher capacities?</span>
+system such that it can operate just as efficiently at much higher capacities?*</span>
 
 The Tokyo train system is a logistical marvel to behold. With a population of
 roughly 14 million, coupled with being a bustling international business hub, a
