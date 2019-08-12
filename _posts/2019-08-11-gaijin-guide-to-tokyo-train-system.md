@@ -1,14 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\margl1440\margr1440\vieww28600\viewh15760\viewkind0
-\deftab720
-\pard\pardeftab720\sl280\partightenfactor0
+---
+layout: post
+title: A Gaijin's Guide to The Tokyo Train System
+---
 
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 ### A Gaijin\'92s Guide to the Tokyo Train System\
-\
 ![](https://cdn-images-1.medium.com/max/1600/1*xHUN1AVM0ejObXBygvCr9g.jpeg)\
 <span class="figcaption_hack">Every day, millions of Japanese use public trains to commute in and around\
 Tokyo. With the 2020 Olympics right around the corner, this number is expected\
