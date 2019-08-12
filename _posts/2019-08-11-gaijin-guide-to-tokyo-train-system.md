@@ -7,8 +7,8 @@ title: A Gaijin's Guide to The Tokyo Train System
 <span class="figcaption_hack">Every day, millions of Japanese use public trains to commute in and around
 Tokyo. With the 2020 Olympics right around the corner, this number is expected
 to increase significantly with the sudden influx of millions of international
-spectators. What can data about Tokyo\'92s public transportation tell us about the
-world\'92s most efficient and complex system? And can we find ways to improve the
+spectators. What can data about Tokyo's public transportation tell us about the
+world's most efficient and complex system? And can we find ways to improve the
 system such that it can operate just as efficiently at much higher capacities?</span>
 
 The Tokyo train system is a logistical marvel to behold. With a population of
@@ -16,7 +16,7 @@ roughly 14 million, coupled with being a bustling international business hub, a
 destination for many young Japanese workers, and the site of the 2020 Olympics,
 the city of [Tokyo](https://en.wikipedia.org/wiki/Tokyo) rarely sleeps. With so
 many people trying to move about the city, a highly efficient public
-transportation system is paramount. And Tokyo has created, arguably, the world\'92s
+transportation system is paramount. And Tokyo has created, arguably, the world's
 best (and most extensive). With rail as the primary means of transportation,
 Tokyo has developed a vast system, consisting of interconnected networks of
 separately owned and operated rail lines and cars, capable of [moving roughly 20
@@ -24,7 +24,7 @@ million passengers
 daily](https://en.wikipedia.org/wiki/Transport_in_Greater_Tokyo#Rail).
 
 With such staggeringly large numbers, I thought it would be interesting to
-analyze one of Tokyo\'92s most popular operators, the Tobu Railway. Data was
+analyze one of Tokyo's most popular operators, the Tobu Railway. Data was
 obtained through the [Open Data Challenge for Public Transportation in
 Tokyo](https://tokyochallenge.odpt.org/en/index.html) API, and the full extent
 of the analysis for this post can be found at my
@@ -38,7 +38,7 @@ we foreigners can more effectively use the trains to our tourist advantage.
 #### Train Volume
 
 Initially, the data was cleaned in order to show how many trains move about the
-Tobu lines throughout the day. It\'92s important to remember that not all trains
+Tobu lines throughout the day. It's important to remember that not all trains
 are created equal, so the type of train was added as an extra dimension in the
 analysis. The graph below illustrates the millions of trains Tobu Railway runs
 daily, with emphasis not only on the total number, but also on the volumes of
@@ -46,20 +46,20 @@ daily, with emphasis not only on the total number, but also on the volumes of
 
 ![](https://cdn-images-1.medium.com/max/1600/1*43IRTEJ3ZjvqTl_3sobraQ.png)
 
-What\'92s telling about this chart is that the total number of trains is at its
+What's telling about this chart is that the total number of trains is at its
 daily highs between 7-9 A.M. and 5-7 P.M. This makes sense because those windows
 are during morning and evening rush, when millions of Japanese salarymen and
 women are commuting to and from their workplaces. Additionally, the Semi-Express
-trains only run through the morning rush, and don\'92t start up again until right
+trains only run through the morning rush, and don't start up again until right
 before evening rush. This signifies that their purpose is to help facilitate the
 sudden influx of people into the stations around Tokyo during these peak hours.
 
 The 8 to 10 P.M. spike is also interesting because it highlights a Japanese
 cultural phenomenon. Japanese workers are expected to leave *after* their
 bosses, and once they leave the office, co-workers are expected get together for
-drinks and dinner. The typical Japanese salaryman typically doesn\'92t get home
+drinks and dinner. The typical Japanese salaryman typically doesn't get home
 until after 10 P.M. (there is a lot of speculation on whether the Japanese work
-culture has any correlation with the country\'92s declining birth rate, but that\'92s
+culture has any correlation with the country's declining birth rate, but that's
 a discussion for another time).
 
 The above graph also shows that 3 types of trains make up the bulk of daily
@@ -70,7 +70,7 @@ trains can be broken down as follows:
 
 Here, we can clearly see that local and express trains handle roughly 85% of all
 traffic throughout the day, while the semi-express trains are utilized primarily
-for the rush hours. As a foreigner, if you\'92re trying to get around the city,
+for the rush hours. As a foreigner, if you're trying to get around the city,
 your best bet will be to take a local or express train.
 
 *****
@@ -83,11 +83,11 @@ produce the following visual:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*H9y18aO2QiByIU1UBbIlTg.png)
 
-Again, we see peaks in the graph at 7\'969A.M. and 5\'967 P.M. However, if you look
+Again, we see peaks in the graph at 7-9A.M. and 5-7 P.M. However, if you look
 closely, you can see that there are slightly more inbound trains during the
 morning rush than outbound trains. The opposite is true for the evening rush.
 This is actually highly intuitive, since most people come into Tokyo from
-elsewhere for work, then leave once work is finished. The spike from 8\'9610 P.M.
+elsewhere for work, then leave once work is finished. The spike from 8-10 P.M.
 also illustrates aforementioned cultural point. However, this influx is also
 partially due to young adults coming into the city to enjoy the Tokyo nightlife.
 
@@ -140,15 +140,15 @@ to get anywhere will be to use one of these three lines.
 The Tokyo public rail operation is unfathomably massive and complex. In this
 post, I only outlined one specific railway. In reality, there are 29 other
 operators operating a total of 108 separate lines connecting a total of 882 rail
-stations within Tokyo. Due to the network\'92s design, it is practically impossible
-to get a hold of all of the city\'92s train data for analysis purposes; however, we
+stations within Tokyo. Due to the network's design, it is practically impossible
+to get a hold of all of the city's train data for analysis purposes; however, we
 can still glean some important insights from even a small fraction of the
 overall picture. As tourists, we should expect extremely crowded stations during
 the morning and evening rush hours. We should also expect that our travel will
 be less crowded if we decide to come into Tokyo during the evenings as opposed
 to leaving (the opposite is true for the morning). Additionally, the Pareto Rule
-holds true for rail lines \'97 most of your transportation can be accomplished on a
-small fraction of the operator\'92s lines. Finally, the last stop on a train\'92s
+holds true for rail lines: most of your transportation can be accomplished on a
+small fraction of the operator's lines. Finally, the last stop on a train's
 route is usually the busiest, as many people are transferring lines to move
 about the country.
 
